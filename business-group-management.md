@@ -1,6 +1,6 @@
 # Business Group Document Management
 
-![](guld_logo)
+![](guld_logo.PNG)
 
 
 ### Author: Ira Miller
@@ -46,7 +46,7 @@ and saved, the digital signature of the user is recorded, no further action is
 strictly necessary to indicate review and approval of the contract. As a
 visual signal, typing in your name would be appropriate.
 
-![Contract Lifecycle](Contract_LifeCycle)
+![Contract Lifecycle](Contract_LifeCycle.PNG)
 
 #### Users and Teams
 Users can be organized into teams with group or individual permissions.
