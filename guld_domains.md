@@ -1,3 +1,5 @@
+# guld domains
+
 guld.cash
 
 guld.chat    messenger app website*
