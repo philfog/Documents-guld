@@ -18,7 +18,7 @@ v0.0.1
 ## Overview
 
 
-The guld Operating System (guldOS) is a security and privacy focused variant of [Gentoo](http://gentoo.org/) Linux. Guld uses Gentoo’s package manager (portage) to compile everything from source. The goal of guldOS is to compile a minimum build for each user to do secure signing operations in an environment they can trust.
+The guld Operating System (guldOS) is a security and privacy focused variant of [Gentoo](http://gentoo.org/) Linux. guld uses Gentoo’s package manager (portage) to compile everything from source. The goal of guldOS is to compile a minimum build for each user to do secure signing operations in an environment they can trust.
 
 ## Disk Encryption
 
