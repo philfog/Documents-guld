@@ -1,4 +1,4 @@
-# XCM todo
+# XCM to do
 
 ## Documents
 
