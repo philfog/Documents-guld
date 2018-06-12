@@ -1,0 +1,3 @@
+[submodule "board"]
+	path = board
+	url = git@bitbucket.org:guld/documents-guld-board.git
