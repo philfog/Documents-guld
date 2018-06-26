@@ -1,0 +1,7 @@
+category, unit price, limit
+individual,0.1,0
+group,0.1,0
+chain,1000,1
+ledger,100,1
+individual chain address,0.1,1
+group chain address,1,10
