@@ -54,4 +54,8 @@ PARTY1_KEY
 ______________________
 PARTY2_NAME
 ______________________
-PARTY2_KEY 
+PARTY2_KEY
+
+
+__This agreement was written by the Raadyx Foundation, and is licensed CC-BY-4.0__
+
