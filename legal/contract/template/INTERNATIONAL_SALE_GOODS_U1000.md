@@ -1,20 +1,22 @@
 Contract for International Goods (each under $1000)
 
-Effective Date ______ DATE1
+Effective Date ______ START_TIME
 
 1. THIS PURCHASE AGREEMENT is between __________________ PARTY1_NAME, PARTY1_KEY located in COUNTRY1, and _____________ PARTY2_NAME, PARTY2_KEY located in ______________ COUNTRY2.
 
 THE PARTIES HEREBY AGREE:
 
-2. THE PURPOSE OF THIS CONTRACT is for ______ PARTY2_NAME to purchase goods from the seller PARTY1_NAME, to be delivered on _______ DATE2.
+2. THE PURPOSE OF THIS CONTRACT is for ______ PARTY2_NAME to purchase goods from the seller PARTY1_NAME, to be delivered on _______  EXPIRE_TIME.
 
-2.1 The goods to be purchased are: ___ QUANTITY1 ______ GOODS1 at ______ PRICE_UNIT in CURRENCY1.
+2.1 The goods to be purchased are: ___ QUANTITY1 ______ BASE_UNIT at ______ UNIT_PRICE in QUOTE_UNIT.
 
-2.2 Seller shall ship goods to buyer at the following address: __________________ LOCATION3
+2.2 Seller shall ship goods to buyer at the following address: __________________ PARTY2_ADDRESS
 
 3. PAYMENT
 
-3.1. ______ PARTY2_NAME agrees to pay _________ PRICE_TOTAL in ______ CURRENCY1 for ______ GOODS1.
+3.1. ______ PARTY2_NAME agrees to pay _________ PRICE_TOTAL in ______ QUOTE_UNIT for ______ BASE_UNIT.
+
+3.2 ______ PARTY1_NAME agrees to receive payment at the following address: ______________ PARTY1_ADDRESS.
 
 4. AMENDMENTS.
 
@@ -38,7 +40,7 @@ THE PARTIES HEREBY AGREE:
 
 **8. ARBITRATION**
 
-8.1. All disputes of or related to the formation, performance, or execution of this contract, if not resolved by the parties, shall be submitted to the sole jurisdiction of Raadyx Arbitration and agree to abide by the terms of the award, under the New York Convention on Enforceability.
+8.1. All disputes of or related to the formation, performance, or execution of this contract, if not resolved by the parties, shall be submitted to the sole jurisdiction of ________ ARBITRATOR and agree to abide by the terms of the award, under the New York Convention on Enforceability.
 
 9. SIGNATURE
 
