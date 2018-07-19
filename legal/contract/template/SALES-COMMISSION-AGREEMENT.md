@@ -12,7 +12,7 @@ WHEREAS __________________ PARTY2_NAME, PARTY2_KEY from _____ COUNTRY2 is willin
 
 ##### 1.2.
 
-PARTY1_NAME agrees to pay PARTY1_NAME a commission in ____ GOOD1 on any ____ GOOD1 sales referrals up to the MAX_AMT.
+PARTY1_NAME agrees to pay PARTY2_NAME a commission in ____ GOOD1 on any ____ GOOD1 sales referrals up to the MAX_AMT.
 
 ### 2. Price
 
@@ -24,11 +24,11 @@ Both parties agree to a price of ____ PRICE_USD for each ____ GOOD1 token.
 
 ##### 3.1.
 
-Party A is offering a fixed commission of scale of ____ RATE. Commission will be paid at the time of the purchase. 
+PARTY1_NAME is offering a fixed commission of scale of ____ RATE. Commission will be paid at the time of the purchase. 
 
 ### 4. Payment
 
-Party A agrees to be paid in any of ____ CURRENCY_LIST.
+PARTY1_NAME agrees to be paid in any of ____ CURRENCY_LIST.
 
 ##### 4.1. Cryptocurrency Payments
 
