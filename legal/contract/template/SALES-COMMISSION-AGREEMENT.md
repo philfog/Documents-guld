@@ -2,17 +2,13 @@
 
 Effective Date __________________ START_TIME
 
-WHEREAS __________________ PARTY1_NAME represented by board members __________________ PARTY1_MEMBER1_NAME, PARTY1_MEMBER1_KEY, and __________________ PARTY1_MEMBER2_NAME, PARTY1_MEMBER2_KEY.
-
-WHEREAS party B is __________________ PARTY2_NAME, PARTY2_KEY.
-
 ### 1. Object of the agreement
 
 ##### 1.1.
 
-WHEREAS PARTY1_NAME is seeking to sell up to ____ MAX_AMT ____ GOOD1 before ______ EXPIRE_TIME.
+WHEREAS __________________ PARTY1_NAME, PARTY1_KEY from _____ COUNTRY1 is seeking to sell up to ____ MAX_AMT ____ GOOD1 before ______ EXPIRE_TIME.
 
-WHEREAS PARTY2_NAME is willing and able to act as salesperson on behalf of PARTY1_NAME until ______ EXPIRE_TIME.
+WHEREAS __________________ PARTY2_NAME, PARTY2_KEY from _____ COUNTRY2 is willing and able to act as salesperson on behalf of PARTY1_NAME until ______ EXPIRE_TIME.
 
 ##### 1.2.
 
@@ -58,7 +54,7 @@ The parties agree that this Agreement shall not be used for any illegal purpose.
 
 ##### 6.1.
 
-Party B shall be bound to sell GULD tokens under the same contractual terms as defined in the [`INTERNATIONAL_SALE_GOODS_U1000.md` contract](https://github.com/guldcoin/Documents-guld/blob/guld/legal/contract/template/INTERNATIONAL_SALE_GOODS_U1000.md).
+____ PARTY2_NAME shall be bound to sell GULD tokens under the same contractual terms as defined in the [`INTERNATIONAL_SALE_GOODS_U1000.md` contract](https://github.com/guldcoin/Documents-guld/blob/guld/legal/contract/template/INTERNATIONAL_SALE_GOODS_U1000.md).
 
 ### **7. ARBITRATION**
 
@@ -76,13 +72,7 @@ The parties have executed this Agreement on the date and time stated in their cr
 
 ______________________ PARTY1_NAME
 
-______________________ PARTY1_MEMBER1_NAME
-
-______________________ PARTY1_MEMBER1_KEY
-
-______________________ PARTY1_MEMBER2_NAME
-
-______________________ PARTY1_MEMBER2_KEY
+______________________ PARTY1_KEY
 
 
 ______________________ PARTY2_NAME
