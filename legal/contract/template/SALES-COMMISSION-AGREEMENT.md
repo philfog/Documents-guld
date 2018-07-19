@@ -1,22 +1,22 @@
 # Sales Commission Agreement
 
-Effective Date ____ DATE1
+Effective Date __________________ START_TIME
 
-WHEREAS ____ PARTY_A represented by board members ____ SIGNER_A1, and ____ SIGNER_A2 using PGP key fingerprints ____ SIGNER_A1_KEY and ____ SIGNER_A1_KEY.
+WHEREAS __________________ PARTY1_NAME represented by board members __________________ PARTY1_MEMBER1_NAME, PARTY1_MEMBER1_KEY, and __________________ PARTY1_MEMBER2_NAME, PARTY1_MEMBER2_KEY.
 
-WHEREAS party B is ____ PARTY_B using PGP key fingerprint ____ PARTY_B_KEY.
+WHEREAS party B is __________________ PARTY2_NAME, PARTY2_KEY.
 
 ### 1. Object of the agreement
 
 ##### 1.1.
 
-WHEREAS party A is seeking to sell up to ____ MAX_AMT ____ GOOD1.
+WHEREAS PARTY1_NAME is seeking to sell up to ____ MAX_AMT ____ GOOD1 before ______ EXPIRE_TIME.
 
-WHEREAS party B knows third parties interested in purchasing ____ GOOD1.
+WHEREAS PARTY2_NAME is willing and able to act as salesperson on behalf of PARTY1_NAME until ______ EXPIRE_TIME.
 
 ##### 1.2.
 
-Party A agrees to pay party B a commission in ____ GOOD1 on any ____ GOOD1 sales referrals up to the MAX.
+PARTY1_NAME agrees to pay PARTY1_NAME a commission in ____ GOOD1 on any ____ GOOD1 sales referrals up to the MAX_AMT.
 
 ### 2. Price
 
@@ -44,7 +44,7 @@ If the chosen payment method is dash (DASH), this address should be used: ____ D
 
 ##### 4.2. Bank Account
 
-In the chosen payment method is a US Dollar transaction, this bank account shoudl be used:
+In the chosen payment method is a US Dollar transaction, this bank account should be used:
 
 ____ BANK_WIRING_INFO
 
@@ -60,15 +60,11 @@ The parties agree that this Agreement shall not be used for any illegal purpose.
 
 Party B shall be bound to sell GULD tokens under the same contractual terms as defined in the [`INTERNATIONAL_SALE_GOODS_U1000.md` contract](https://github.com/guldcoin/Documents-guld/blob/guld/legal/contract/template/INTERNATIONAL_SALE_GOODS_U1000.md).
 
-##### 6.2. NY State Disclaimer
-
-The parties agree to be bound by the terms defined in the [`USA_NY_GULD_DISCLAIMER.md` clause](https://github.com/guldcoin/Documents-guld/blob/guld/legal/contract/clauses/USA/NY/USA_NY_GULD_DISCLAIMER.md).
-
 ### **7. ARBITRATION**
 
 ##### 7.1.
 
-All disputes of or related to the formation, performance, or execution of this contract, if not resolved by the parties, shall be submitted to the sole jurisdiction of the guld group and agree to abide by the terms of the award, under the New York Convention on Enforceability.
+All disputes of or related to the formation, performance, or execution of this contract, if not resolved by the parties, shall be submitted to the sole jurisdiction of the ________ ARBITRATOR and agree to abide by the terms of the award, under the New York Convention on Enforceability.
 
 ### 8. SIGNATURE
 
@@ -78,17 +74,17 @@ Both parties agree to sign this contract with a cryptographic key, unique to eac
 
 The parties have executed this Agreement on the date and time stated in their cryptographic signatures.
 
-______________________ PARTY_A
+______________________ PARTY1_NAME
 
-______________________ SIGNER_A1
+______________________ PARTY1_MEMBER1_NAME
 
-______________________ SIGNER_A1_KEY
+______________________ PARTY1_MEMBER1_KEY
 
-______________________ SIGNER_A2
+______________________ PARTY1_MEMBER2_NAME
 
-______________________ SIGNER_A2_KEY
+______________________ PARTY1_MEMBER2_KEY
 
 
-______________________ PARTY_B
+______________________ PARTY2_NAME
 
-______________________ PARTY_B_KEY
+______________________ PARTY2_KEY
