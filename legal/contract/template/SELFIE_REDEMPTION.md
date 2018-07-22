@@ -11,7 +11,7 @@ Effective Date: _______Time_Start
 3.1. ____________PARTY2_NAME agrees to pay _____PRICE_AMOUNT in ISYSD tokens for a selfie.  
 
 4. Redemption  
-4.1 The rate for a selfie is 20 ISYSD tokens per one (1) hour. A selfie can be purchased in three (3) minute increments The minimum purchase is one (1) increment.  
+4.1 The rate for a selfie is twenty (20) ISYSD tokens per one (1) hour. A selfie can be purchased in three (3) minute increments The minimum purchase is one (1) increment.  
 4.2 PARTY2_NAME agrees to purchase a selfie at  _____rate and ____ increments.   
 4.3 In order to redeem ISYSD tokens, PARTY2_NAME shall sign and submit a proposal to _____EMAIL.   
 4.4 PARTY1_NAME shall then either approve, veto, or submit a counter-proposal. If a counter-proposal is submitted, the redemption rate shall be fixed at the rate of the original proposal submitted.   
