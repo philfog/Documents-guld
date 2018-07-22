@@ -8,7 +8,7 @@ Effective Date: _______Time_Start
 2.1 The purpose of this contract is for PARTY1_NAME to take a selfie with PARTY2_NAME.   
 
 3. Payment  
-3.1. ____________PARTY2_NAME agrees to pay _____PRICE_TOTAL in ______ISYSD_TOKENS for a selfie.  
+3.1. ____________PARTY2_NAME agrees to pay _____PRICE_AMOUNT in ISYSD tokens for a selfie.  
 
 4. Redemption  
 4.1 The rate for a selfie is 20 ISYSD tokens per 1 hour. The minimum purchase is 1-3 minute increment.  
