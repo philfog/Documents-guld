@@ -14,7 +14,7 @@ ____________ PARTY2_NAME agrees to pay _____ PRICE_TOTAL in ______ PARTY1_TOKENS
 
 4. Redemption
 4.1. Redemptions are made at a custom hourly rate ____ RATE where RATE is denominated in ______ PARTY1_TOKENS.
-4.2. In order to redeem ISYSD tokens, ______ PARTY2_NAME shall sign and submit a proposal to _____ PARTY1_EMAIL.
+4.2. In order to redeem ______ PARTY1_TOKENS, ______ PARTY2_NAME shall sign and submit a proposal to _____ PARTY1_EMAIL.
 4.3. _____ PARTY1_NAME shall then either approve, veto, or submit a counter-proposal. If a counter-proposal is submitted, the redemption rate shall be fixed at the rate of the original proposal submitted.
 4.4. Redemptions are subject to a minimum redemption purchase value. If minimum purchase is not met, the redemption shall be vetoed.
 

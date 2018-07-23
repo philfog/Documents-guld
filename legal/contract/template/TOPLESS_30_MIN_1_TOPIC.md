@@ -19,7 +19,7 @@ ____________ PARTY2_NAME agrees to pay _____ PRICE_TOTAL in ______ PARTY1_TOKENS
 4. Redemption
 4.1 The rate for a meeting with PARTY1_NAME is _____ RATE _____ PARTY1_TOKENS per one (1) hour. A meeting can be purchased in thirty (30) minute increments. The minimum purchase is one (1) increment. If minimum purchase is not met, the redemption shall be vetoed.   
 4.2 PARTY2_NAME agrees to purchase a meeting at  _____ RATE and ____ increments.   
-4.3 In order to redeem ISYSD tokens, PARTY2_NAME shall sign and submit a proposal to _____EMAIL.   
+4.3 In order to redeem ______ PARTY1_TOKENS, PARTY2_NAME shall sign and submit a proposal to _____EMAIL.   
 4.4 PARTY1_NAME shall then either approve, veto, or submit a counter-proposal. If a counter-proposal is submitted, the redemption rate shall be fixed at the rate of the original proposal submitted.
 
 5. Amendments

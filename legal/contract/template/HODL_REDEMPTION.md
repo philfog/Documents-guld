@@ -5,17 +5,17 @@ Effective Date: _______ TIME_START
 1.1. This contract Is between _______ PARTY1_NAME,______ PARTY1_KEY, in LOCATION1, and ____________ PARTY2_NAME,______ PARTY2_KEY located in ____________ LOCATION2.
 
 2. Purpose
-2.1 The purpose of this contract is for_______PARTY1_NAME to take a selfie with _______ PARTY2_NAME.
+2.1 The purpose of this contract is for_______PARTY2_NAME to reinvest PARTY1_TOKEN in _______ PARTY1_NAME.
 
 3. Payment
 
-____________ PARTY2_NAME agrees to pay _____ PRICE_TOTAL in ______ PARTY1_TOKENS for a selfie.
+____________ PARTY2_NAME agrees to pay _____ PRICE_TOTAL in ______ PARTY1_TOKENS for a promise that PARTY1_NAME will pay _______ PRICE_TOTAL multiplied by _______ YIELD after a period of _______ MATURATION.
 
-4. Redemption  
-4.1 The rate for a selfie is _____ RATE _____ PARTY1_TOKENS per one (1) hour. A selfie can be purchased in three (3) minute increments. The minimum purchase is one (1) increment.
-4.2 PARTY2_NAME agrees to purchase a selfie at  _____rate and ____ increments.   
-4.3 In order to redeem ______ PARTY1_TOKENS, PARTY2_NAME shall sign and submit a proposal to _____EMAIL.   
-4.4 PARTY1_NAME shall then either approve, veto, or submit a counter-proposal. If a counter-proposal is submitted, the redemption rate shall be fixed at the rate of the original proposal submitted.
+4. Redemption
+4.1 A hodl recemption can be purchased in 10 ______ PARTY1_TOKENS increments. The minimum purchase is one (1) increment.
+4.2 PARTY2_NAME agrees to pay at  _____ RATE and ____ increments.
+4.3 In order to redeem ______ PARTY1_TOKENS, PARTY2_NAME shall sign and submit a proposal to _____ PARTY1_EMAIL.
+4.4 ______ PARTY1_NAME shall then either approve, veto, or submit a counter-proposal. If a counter-proposal is submitted, the redemption rate shall be fixed at the rate of the original proposal submitted.
 4.5 Redemptions are subject to a minimum redemption purchase value. If minimum purchase is not met, the redemption shall be vetoed.
 
 5. Amendments
