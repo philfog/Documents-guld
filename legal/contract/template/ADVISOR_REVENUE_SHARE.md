@@ -9,9 +9,9 @@ THE PARTIES HEREBY AGREE:
 2.2 PARTY1_NAME shall set aside ____TOTAL_SHARE_PERCENT, from all sales through the token issuance contract, into the Advisor Pool.  
 
 3. PAYMENT  
-3.1. PARTY1_NAME shall have the sole discretion to determine the shares among the Advisor Pool. 
-3.2 PARTY2_NAME shall receive ____ SHARE_PERCENT of the Advisor Pool. 
-3.3. ____________PARTY1_NAME agrees to pay _____TOTAL_AMOUNT in ______CURRENCY_LIST for ______SERVICES1.
+3.1. PARTY1_NAME shall have the sole discretion to determine the shares among the Advisor Pool.  
+3.2 PARTY2_NAME shall receive ____ SHARE_PERCENT of the Advisor Pool.  
+3.3. ____________PARTY1_NAME agrees to pay _____TOTAL_AMOUNT in ______CURRENCY_LIST for ______SERVICES1.  
 3.4 PARTY1_NAME shall distribute revenue share percentages within 1 week of the end of the sale.  
 
 4. AMENDMENTS  
