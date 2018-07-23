@@ -7,8 +7,8 @@ Effective Date: _______Time_Start.
 2.	Purpose  
 The purpose of this contract is for PARTY1_NAME to perform _________SERVICES , to be started on _______TIME_START and completed on ________TIME_EXPIRE. _____________SERVICES1 shall be performed at___________LOCATION_CHOSEN.  
 
-3.	Payment
-3.1. ____________PARTY2_NAME agrees to pay _____PRICE_TOTAL in ______ISYSD_TOKENS for ______SERVICES1.  
+3.	Payment  
+____________PARTY2_NAME agrees to pay _____PRICE_TOTAL in ______ISYSD_TOKENS for ______SERVICES1.  
 
 4. Redemption  
 4.1. Redemptions are made at a custom hourly rate ____ RATE.  
