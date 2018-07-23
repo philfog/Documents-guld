@@ -4,8 +4,8 @@ Effective Date __________TIME_START
 
 THE PARTIES HEREBY AGREE:  
 
-2. PURPOSE   
-2.1 The purpose of this contract is for PARTY2_NAME to receive a share percentage of the Advisor Pool. 
+2. PURPOSE     
+2.1 The purpose of this contract is for PARTY2_NAME to receive a share percentage of the Advisor Pool.   
 2.2 PARTY1_NAME shall set aside ____TOTAL_SHARE_PERCENT, from all sales through the token issuance contract, into the Advisor Pool.  
 
 3. PAYMENT  
@@ -32,7 +32,7 @@ THE PARTIES HEREBY AGREE:
 8.1. Both parties agree to sign this contract with a cryptographic key, unique to each party. By signing this agreement, both parties represent that they are authorized to enter into this agreement.  
 The parties have executed this agreement on the date and time stated in their cryptographic signatures.
 
-Name: ____________________________  
-Name: ____________________________  
-Key: ___________________________  
-Key: ____________________________
+PARTY1_NAME: ____________________________    
+PARTY2_NAME: ____________________________    
+PARTY1_KEY: ___________________________    
+PARTY2_KEY: ____________________________  
