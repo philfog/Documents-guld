@@ -19,15 +19,15 @@ ____________PARTY2_NAME agrees to pay _____PRICE_TOTAL in ______ISYSD_TOKENS for
 5.	AMENDMENTS
 5.1. Any amendments to this Agreement shall be made in writing and signed cryptographically by both parties, including the amendments to the writing requirement stated in this provision.  
 
-6.	UNFORESEEN CIRCUMSTANCES
-6.1. A party who is unable to perform a contract due to unforeseeable, unavoidable, and insurmountable circumstances is exempt from liability in part or in whole in light of the impact of the event. Where an event of force majeure occurs after a delay in performance, the party is not exempted from liability.
-6.2. If ____PARTY1_NAME or _____PARTY2_NAME is unable to perform due to a force majeure event, it shall promptly notify the other party, so as to mitigate the loss that may be caused to the other party.
+6.	UNFORESEEN CIRCUMSTANCES  
+6.1. A party who is unable to perform a contract due to unforeseeable, unavoidable, and insurmountable circumstances is exempt from liability in part or in whole in light of the impact of the event. Where an event of force majeure occurs after a delay in performance, the party is not exempted from liability.  
+6.2. If ____PARTY1_NAME or _____PARTY2_NAME is unable to perform due to a force majeure event, it shall promptly notify the other party, so as to mitigate the loss that may be caused to the other party.  
 6.3. The impacted party will use diligent efforts to end the failure or delay and ensure the effects of the Force Majeure event are minimized. The impacted party will resume the performance of its obligations as soon as reasonably practicable after the removal of the cause.  
 
-7.	ANTI-MONEY LAUNDERING AND COUNTER-TERRORISM
+7.	ANTI-MONEY LAUNDERING AND COUNTER-TERRORISM  
 7.1. The parties agree that this Agreement shall not be used for any illegal purpose.  
 
-8.	ARBITRATION
+8.	ARBITRATION  
 8.1. All disputes of or related to the formation, performance, or execution of this contract, if not resolved by the parties, shall be submitted to the sole jurisdiction of  DENFAB Arbitration and agree to abide by the terms of the award, under the New York Convention on Enforceability.  
 
 9.	SIGNATURE
