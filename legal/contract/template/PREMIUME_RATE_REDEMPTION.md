@@ -10,11 +10,11 @@ The purpose of this contract is for PARTY1_NAME to perform _________SERVICES , t
 3.	Payment
 3.1. ____________PARTY2_NAME agrees to pay _____PRICE_TOTAL in ______ISYSD_TOKENS for ______SERVICES1.  
 
-Redemption
-4.1. Redemptions are made at a custom hourly rate ____ RATE. 
-4.2	. In order to redeem ISYSD tokens, PARTY2_NAME shall sign and submit a proposal to _____EMAIL.
-4.3. PARTY1_NAME shall then either approve, veto, or submit a counter-proposal. If a counter-proposal is submitted, the redemption rate shall be fixed at the rate of the original proposal submitted.
-4.3 Redemptions are subject to a minimum redemption purchase value. If minimum purchase is not met, the redemption shall be vetoed.  
+4. Redemption  
+4.1. Redemptions are made at a custom hourly rate ____ RATE.  
+4.2	. In order to redeem ISYSD tokens, PARTY2_NAME shall sign and submit a proposal to _____EMAIL.  
+4.3. PARTY1_NAME shall then either approve, veto, or submit a counter-proposal. If a counter-proposal is submitted, the redemption rate shall be fixed at the rate of the original proposal submitted.  
+4.4. Redemptions are subject to a minimum redemption purchase value. If minimum purchase is not met, the redemption shall be vetoed.  
 
 5.	AMENDMENTS
 5.1. Any amendments to this Agreement shall be made in writing and signed cryptographically by both parties, including the amendments to the writing requirement stated in this provision.  
