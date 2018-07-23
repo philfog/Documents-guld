@@ -4,7 +4,7 @@ Effective Date: _______Time_Start.
 
 1.1. This contract Is between ___________ PARTY1_NAME,______ PARTY1_KEY, in LOCATION1, and ____________ PARTY2_NAME,______ PARTY2_KEY located in ____________ LOCATION2.  
 
-2.	Purpose
+2.	Purpose  
 The purpose of this contract is for PARTY1_NAME to perform _________SERVICES , to be started on _______TIME_START and completed on ________TIME_EXPIRE. _____________SERVICES1 shall be performed at___________LOCATION_CHOSEN.  
 
 3.	Payment
