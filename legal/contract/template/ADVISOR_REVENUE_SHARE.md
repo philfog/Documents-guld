@@ -14,7 +14,7 @@ THE PARTIES HEREBY AGREE:
 3.3. ____________PARTY1_NAME agrees to pay _____TOTAL_AMOUNT in ______CURRENCY_LIST for ______SERVICES1.
 3.4 PARTY1_NAME shall distribute revenue share percentages within 1 week of the end of the sale.  
 
-4. AMENDMENTS
+4. AMENDMENTS  
 4.1. Any amendments to this Agreement shall be made in writing and signed cryptographically by both parties, including the amendments to the writing requirement stated in this provision.  
 
 5. UNFORESEEN CIRCUMSTANCES  
