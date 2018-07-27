@@ -1,4 +1,4 @@
-Effective Date ____START_TIME
+Effective Date ____ START_TIME
 
 1. Parties
 1.1. This contract Is between ___________ PARTY1_NAME,______ PARTY1_KEY, in LOCATION1, and ____________ PARTY2_NAME,______ PARTY2_KEY located in ____________ LOCATION2.
@@ -8,7 +8,7 @@ Effective Date ____START_TIME
 2.2._______ PARTY2_NAME understands and agrees that ________ PARTY1_NAME does not warrant an expectation of profit from the ______ PARTY1_TOKEN tokens sold under this contract.
 
 3. Price
-3.1. Both parties agree to a price of ____ PRICE_USD for each ______ PARTY1_TOKEN token.
+3.1. Both parties agree to a price of ____ PRICE_USD for each ______ PARTY1_TOKEN token, valid until _____ EXPIRE_TIME.
 3.2. Non-US Dollar payments for ______ PARTY1_TOKEN shall be credited at the exchange rate provided by coinmarketcap at the start of the 10 minute window when the transaction is first noticed by ______ PARTY1_TOKEN, or when the first confirmation is received, whichever is first.
 
 4. Payment
@@ -18,8 +18,8 @@ Effective Date ____START_TIME
 4.2.2. PARTY2_NAME shall have access to the private key used for sending address; and must be able to sign his or her GULD username with the private key.
 
 5. Delivery
-5.1. ______ PARTY2_NAME shall purchase ______ PARTY1_TOKEN tokens from ______ PARTY1_NAME to be delivered by providing ____CRYPTO (eth, btc, dash) address or a copy of wire transaction (USD only).
-5.1.1 if ____PARTY2_NAME pays by wire transfer, ____PARTY2_NAME must create a GULD username prior to receiving ______ PARTY1_TOKEN token(s).
+5.1. ______ PARTY2_NAME shall purchase ______ PARTY1_TOKEN tokens from ______ PARTY1_NAME to be delivered by providing ____ CRYPTO (eth, btc, dash) address or a copy of wire transaction (USD only).
+5.1.1 if ____ PARTY2_NAME pays by wire transfer, ____ PARTY2_NAME must create a GULD username prior to receiving ______ PARTY1_TOKEN token(s).
 
 6. Amendment
 6.1. Any amendments to this Agreement shall be made in writing and signed cryptographically by both parties, including the amendments to the writing requirement stated in this provision.
@@ -37,7 +37,7 @@ Effective Date ____START_TIME
 9.1. The U.N. Convention on the International Sales of Goods, CISG, shall govern this agreement, even if either party does not reside in a contracting state.
 
 10. Arbitration
-10.1. All disputes of or related to the formation, performance, or execution of this contract, if not resolved by the parties, shall be submitted to the sole jurisdiction of [DENFAB](https://denfablaw.com) Arbitration and the parties agree to abide by the terms of the award, under the New York Convention on the Recognition and Enforcement of Foreign Arbitral Awards.
+10.1. All disputes of or related to the formation, performance, or execution of this contract, if not resolved by the parties, shall be submitted to the sole jurisdiction of ______ ARBITRATOR Arbitration and the parties agree to abide by the terms of the award, under the New York Convention on the Recognition and Enforcement of Foreign Arbitral Awards.
 
 11. Signature
 11.1. Both parties agree to sign this contract with cryptographic key, unique to each party. By signing this agreement, both parties represent that they are authorized to enter into this agreement.
