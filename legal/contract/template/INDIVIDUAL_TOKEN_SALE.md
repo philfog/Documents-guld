@@ -14,8 +14,8 @@ Effective Date ____ START_TIME
 4. Payment
 4.1. ______ PARTY2_NAME agrees to pay _________ PRICE_TOTAL in ______ CURRENCY_LIST for ____QUANTITY_TOTAL of ______ PARTY1_TOKEN Tokens.
 4.2. Proof of payment
-4.2.1. PARTY2_NAME will provide Proof of Address to claim ______ PARTY1_TOKEN tokens.
-4.2.2. PARTY2_NAME shall have access to the private key used for sending address; and must be able to sign his or her GULD username with the private key.
+&nbsp; &nbsp; &nbsp; &nbsp; 4.2.1. PARTY2_NAME will provide Proof of Address to claim ______ PARTY1_TOKEN tokens.
+&nbsp; &nbsp; &nbsp; &nbsp; 4.2.2. PARTY2_NAME shall have access to the private key used for sending address; and must be able to sign his or her GULD username with the private key.
 
 5. Delivery
 5.1. ______ PARTY2_NAME shall purchase ______ PARTY1_TOKEN tokens from ______ PARTY1_NAME to be delivered by providing ____ CRYPTO (eth, btc, dash) address or a copy of wire transaction (USD only).
@@ -41,6 +41,8 @@ Effective Date ____ START_TIME
 
 11. Signature
 11.1. Both parties agree to sign this contract with cryptographic key, unique to each party. By signing this agreement, both parties represent that they are authorized to enter into this agreement.
+
+
 The parties have executed this agreement on the date and time stated in their cryptographic signatures.
 
 ______ PARTY1_NAME
