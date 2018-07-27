@@ -28,7 +28,7 @@ ______ PARTY1_KEY agrees to pay gas fees in ETH.
 
 ### 3.2.
 
-There are guaranteed gas fees, or predictable gas fee schedule. Maximum fee must be defined per transaction, prior to determining actual fee to be paid.
+There are no guaranteed gas fees, or predictable gas fee schedule. Maximum fee must be defined per transaction, prior to determining actual fee to be paid.
 
 Any unspent fee below the maximum, will be returned to the sender.
 
