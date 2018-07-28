@@ -38,7 +38,27 @@ Mizim agrees to deposit 100,000 GULD into this contract within a week of _____ S
 
 ## 4. Amendments
 
-4.1. Any amendments to this Agreement shall be made in writing and signed cryptographically by mizim, and published to guld and mizim blocktree branches as well as the Ethereum Network, including the amendments to the writing requirement stated in this provision.
+### 4.1.
+
+Any amendments to this Agreement shall be made in writing and signed cryptographically by mizim, and published to guld and mizim blocktree branches as well as the Ethereum Network, including the amendments to the writing requirement stated in this provision.
+
+## 6. ANTI-MONEY LAUNDERING
+
+### 6.1.
+
+The parties agree that this Agreement shall not be used for any illegal purpose.
+
+## 7. U.N. CONVENTION ON THE INTERNATIONAL SALE OF GOODS
+
+### 7.1
+
+The U.N. Convention on the International Sales of Goods, CISG, shall govern this agreement, even if either party does not reside in a contracting state.
+
+## **8. ARBITRATION**
+
+### 8.1.
+
+All disputes of or related to the formation, performance, or execution of this contract, if not resolved by the parties, shall be submitted to the sole jurisdiction of ________ ARBITRATOR and agree to abide by the terms of the award, under the New York Convention on Enforceability.
 
 ## 5. Signature
 
