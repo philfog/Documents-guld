@@ -1,12 +1,12 @@
 # ERC20 GULD Contract
 
-Effective Date ____ START_TIME
+Effective Date ________ START_TIME
 
 ## 1. Parties
 
 ### 1.1.
 
-This contract Is between Mizim Foundation registered as guld group mizim, in Panama, and ________ PARTY2_NAME,______ PARTY2_KEY located in ________ LOCATION2.
+This contract Is between Mizim Foundation registered as guld group mizim, in Panama, and ________ PARTY2_NAME,________ PARTY2_KEY located in ________ LOCATION2.
 
 ## 2. Purpose
 
@@ -34,7 +34,7 @@ Any GULD ________ PARTY2_NAME deposits into this contract will be converted to E
 
 ### 3.5.
 
-Mizim agrees to deposit 100,000 GULD into this contract within a week of _____ START_TIME.
+Mizim agrees to deposit 100,000 GULD into this contract within a week of ________ START_TIME.
 
 ## 4. Amendments
 
@@ -42,27 +42,27 @@ Mizim agrees to deposit 100,000 GULD into this contract within a week of _____ S
 
 Any amendments to this Agreement shall be made in writing and signed cryptographically by mizim, and published to guld and mizim blocktree branches as well as the Ethereum Network, including the amendments to the writing requirement stated in this provision.
 
-## 6. ANTI-MONEY LAUNDERING
+## 5. ANTI-MONEY LAUNDERING
 
-### 6.1.
+### 5.1.
 
 The parties agree that this Agreement shall not be used for any illegal purpose.
 
-## 7. U.N. CONVENTION ON THE INTERNATIONAL SALE OF GOODS
+## 6. U.N. CONVENTION ON THE INTERNATIONAL SALE OF GOODS
 
-### 7.1
+### 6.1
 
 The U.N. Convention on the International Sales of Goods, CISG, shall govern this agreement, even if either party does not reside in a contracting state.
 
-## **8. ARBITRATION**
+## **7. ARBITRATION**
 
-### 8.1.
+### 7.1.
 
 All disputes of or related to the formation, performance, or execution of this contract, if not resolved by the parties, shall be submitted to the sole jurisdiction of ________ ARBITRATOR and agree to abide by the terms of the award, under the New York Convention on Enforceability.
 
-## 5. Signature
+## 8. Signature
 
-### 5.1.
+### 8.1.
 
 Both parties agree to sign this contract with an Ethereum cryptographic key, unique to each party. By signing this agreement, both parties represent that they are authorized to enter into this agreement.
 
@@ -72,7 +72,7 @@ Mizim Foundation
 
 mizim
 
-_____ PARTY2_NAME
+________ PARTY2_NAME
 
-_____ PARTY2_KEY
+________ PARTY2_KEY
 
