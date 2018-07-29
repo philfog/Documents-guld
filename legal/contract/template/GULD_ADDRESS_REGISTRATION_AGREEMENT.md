@@ -55,9 +55,9 @@ All disputes of or related to the formation, performance, or execution of this c
 
 ### 7.1.
 
-Both parties agree to sign this contract with an Ethereum cryptographic key, unique to each party. By signing this agreement, both parties represent that they are authorized to enter into this agreement.
+Both parties agree to sign this contract with a cryptographic key, unique to each party. By signing this agreement, both parties represent that they are authorized to enter into this agreement.
 
-The parties have executed this agreement on the date and time stated in their cryptographic signatures.
+The parties have executed this Agreement on the date and time stated in their cryptographic signatures.
 
 guld
 
