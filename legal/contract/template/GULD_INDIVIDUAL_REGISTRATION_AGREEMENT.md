@@ -22,8 +22,7 @@ ________ PARTY2_NAME certifies that they have access to the private key(s) assoc
 
 ### 3.1.
 
-________ PARTY2_NAME must pay a one time registration fee of ________ INDIVIDUAL_REGISTRATION_FEE GULD to `guld:Liabilities`.
-
+________ PARTY2_NAME must pay a one time registration fee of ________ INDIVIDUAL_REGISTRATION_FEE GULD to `guld:Liabilities`, also creating a corresponding, negative posting to `guld:Income:register:individual:$PARTY2_NAME`.
 
 ## 4. Amendments
 

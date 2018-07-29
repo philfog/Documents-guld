@@ -30,8 +30,7 @@ No more than 10 addresses may be registered per group guld member name.
 
 ### 3.1.
 
-________ PARTY2_NAME must pay a one time registration fee of ________ ADDRESS_REGISTRATION_FEE GULD to `guld:Liabilities`.
-
+________ PARTY2_NAME must pay a one time registration fee of ________ ADDRESS_REGISTRATION_FEE GULD to `guld:Liabilities`, also creating a corresponding, negative posting to `guld:Income:register:address:$NETWORK:$ADDRESS` for each ADDRESS in ADDRESS_LIST.
 
 ## 4. Amendments
 
