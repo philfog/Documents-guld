@@ -1,0 +1,23 @@
+Subject: Open Source Contributor GULD Airdrop & Claim process.
+To: {Email address}
+
+Hello, {name}
+
+We are contacting you in behalf of the guld network, due to your contributions to Open Source Projects in the past.
+
+These Contributions have been used in the development of the [guld P2P Decentralized Internet](http://guld.io), and for this, we would like to present you with a {amount} GULD token reward.
+
+# What is guld?
+
+Guld is a peer to peer, cryptographic platform of contracting, witnessing and consensus for DAPPs, DAOs, digital identity, and trustless ledgers. Guld is free and open source, built on git, gnupg, and ledger-cli. We always use open components, when available, remembering to push patches upstream.
+
+All records on the guld blocktree are parseable in human language, are organized into name spaces for individuals, groups, devices, Crypto addresses, and even other blockchains. GULD tokens are required to register those names.
+
+# How to claim your guld account and GULD?
+
+As a thank you for your contribution, we have airdropped your account {name}, with {amount} GULD tokens. In order to claim these tokens, you may either install the guld-cli javascript package (https://www.npmjs.com/package/guld-cli) or visit our telegram group (t.me/guldblocktree), to interact with our Bot, Gai (@guldai_bot).
+
+Once you have claimed your account, you will be able to make transactions and sign contracts using the CLI, libraries, or telegram bot. If you are an Ethereum user, you may also convert your GULD for ERC20 GULD.
+
+Thank you for your contributions, and welcome to guld!
+

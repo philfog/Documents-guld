@@ -2,7 +2,7 @@ Contract for International Goods (each under $1000)
 
 Effective Date ______ START_TIME
 
-1. THIS PURCHASE AGREEMENT is between __________________ PARTY1_NAME, PARTY1_KEY located in COUNTRY1, and _____________ PARTY2_NAME, PARTY2_KEY located in ______________ COUNTRY2.
+1. THIS PURCHASE AGREEMENT is between __________________ PARTY1_NAME, PARTY1_KEY located in LOCATION1, and _____________ PARTY2_NAME, PARTY2_KEY located in ______________ LOCATION2.
 
 THE PARTIES HEREBY AGREE:
 
