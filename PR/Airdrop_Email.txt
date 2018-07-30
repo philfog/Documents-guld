@@ -1,11 +1,11 @@
 Subject: Open Source Contributor GULD Airdrop & Claim process.
 To: {Email address}
 
-Hello, {name}
+Hello, {username}
 
 We are contacting you in behalf of the guld network, due to your contributions to Open Source Projects in the past.
 
-These Contributions have been used in the development of the [guld P2P Decentralized Internet](http://guld.io), and for this, we would like to present you with a {amount} GULD token reward.
+These Contributions have been used in the development of the [guld P2P Decentralized Internet](http://guld.io), and for this, we would like to present you with a {Airdrop Amount} GULD token reward.
 
 # What is guld?
 
@@ -15,7 +15,9 @@ All records on the guld blocktree are parseable in human language, are organized
 
 # How to claim your guld account and GULD?
 
-As a thank you for your contribution, we have airdropped your account {name}, with {amount} GULD tokens. In order to claim these tokens, you may either install the guld-cli javascript package (https://www.npmjs.com/package/guld-cli) or visit our telegram group (t.me/guldblocktree), to interact with our Bot, Gai (@guldai_bot).
+We created an account {username}, associated with your last known PGP key {KeyID}, and airdropped {amount} GULD tokens to it. In order to claim these tokens, you must verify your identity.
+
+This can be done either using the guld-cli javascript package (https://www.npmjs.com/package/guld-cli) or by visiting our telegram group (t.me/guldblocktree), to interact with the wallet bot, Gai (@guldai_bot).
 
 Once you have claimed your account, you will be able to make transactions and sign contracts using the CLI, libraries, or telegram bot. If you are an Ethereum user, you may also convert your GULD for ERC20 GULD.
 
