@@ -3,7 +3,7 @@ To: {Email address}
 
 Hello, {username}
 
-We are contacting you in behalf of the guld network, due to your contributions to Open Source Projects in the past.
+We are contacting you on behalf of the guld network, due to your contributions to Open Source Projects in the past.
 
 These Contributions have been used in the development of the [guld P2P Decentralized Internet](http://guld.io), and for this, we would like to present you with a {Airdrop Amount} GULD token reward.
 
@@ -11,11 +11,11 @@ These Contributions have been used in the development of the [guld P2P Decentral
 
 Guld is a peer to peer, cryptographic platform of contracting, witnessing and consensus for DAPPs, DAOs, digital identity, and trustless ledgers. Guld is free and open source, built on git, gnupg, and ledger-cli. We always use open components, when available, remembering to push patches upstream.
 
-All records on the guld blocktree are parseable in human language, are organized into name spaces for individuals, groups, devices, Crypto addresses, and even other blockchains. GULD tokens are required to register those names.
+All records on the guld blocktree are readable in human language, and are organized into name spaces for individuals, groups, devices, Crypto addresses, and even other blockchains. GULD tokens are required to register those names.
 
 # How to claim your guld account and GULD?
 
-We created an account {username}, associated with your last known PGP key {KeyID}, and airdropped {amount} GULD tokens to it. In order to claim these tokens, you must verify your identity.
+We created an account {username}, associated with your last known PGP key {KeyID}, and airdropped {Airdrop Amount} GULD tokens to it. In order to claim these tokens, you must verify your identity.
 
 This can be done either using the guld-cli javascript package (https://www.npmjs.com/package/guld-cli) or by visiting our telegram group (t.me/guldblocktree), to interact with the wallet bot, Gai (@guldai_bot).
 
