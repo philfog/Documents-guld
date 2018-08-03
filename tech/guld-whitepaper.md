@@ -46,7 +46,7 @@ The simplest and smallest perspective would be Descartes's "I think, therefore I
 
 The entries are either the raw contents that answer the question, or a git submodule linking to said contents. In the case of category nodes, like `keys`, the raw contents may be a directory, which in git, is just a path to a hashable object.
 
-![blocktree-descartes](gap://media/image/guld/whitepaper/blocktree-descartes.jpg)
+![blocktree-descartes](/img/blocktree-descartes.jpg)
 
 The 'life/Rene' case is more complex. What is Rene? In the git tree, it is a submodule, referencing the HEAD commit of the parent perspective. More subtle, though, Rene is the pattern of observations that are always signed using `RDKey`. To help us recognize this, Rene keeps all of these observations in the agreed upon perspective taxonomy, at his dedicated namespace in the tree, `life/Rene`.
 
@@ -54,7 +54,7 @@ Since observers recognize each other, the blocktree is symmetrical, and potentia
 
 Assume there is another rational entity Baruch Spinoza, who performs a similar self-proof using BSKey. The two would not necessarily see each other at first, and would be in self-contained perspective loops. The perspectives would be symmetrical, and easily comparable, however, should any outside observer read them both.
 
-![blocktree-spinoza](gap://media/image/guld/whitepaper/blocktree-spinoza.jpg)
+![blocktree-spinoza](/img/blocktree-spinoza.jpg)
 
 ### The Blocktree
 
@@ -62,19 +62,19 @@ The blocktree itself is a combination of many perspective nodes. In the guld sof
 
 Baruch could read Rene's theory, and observe that RDKey was still in active use. Baruch would therefore update his tree by referencing Rene, and RDKey in their respective places. This would yield a self-similar, predictable and organized tree. Baruch could make basic assertions about Rene's perspective, such as "Rene believes he exists." Rene would not necessarily accept any premise of Baruch's, but would be able to prove "Baruch believes Rene exists".
 
-![blocktree-descartes-seen](gap://media/image/guld/whitepaper/blocktree-descartes-seen.jpg)
+![blocktree-descartes-seen](/img/blocktree-descartes-seen.jpg)
 
 Next, let's assume there is a two way communication between Rene and Baruch. Rene sees that Baruch has recognized his work, and reciprocates, also yielding identical hashes for `life`, and `keys`. The two have achieved consensus.
 
 The simplest state of consensus is a symmetric equilibrium of proven existence between two parties. That is, both parties have shared public keys, and proven to each other their sentience with a unique thought. In git practice, an additional step of merging trees may be necessary, but that's procedural.
 
-![blocktree-descartes-friend](gap://media/image/guld/whitepaper/blocktree-descartes-friend.jpg)
+![blocktree-descartes-friend](/img/blocktree-descartes-friend.jpg)
 
 When in a state of absolute consensus, as shown above, this tree is one level of perspective nodes deep, but n rows wide, where n is the number of unique observers. In git terms, every submodule in the `life` directory would point back to the parent repository.
 
 When there is disagreement, each `life` node may represent one or more branch points. The topography of this branching creates a control surface to be manipulated. For instance, suppose the branching is on the topic of 3d shapes. Their trees would overlap in some areas, differ in the area of shapes, and each contain at least a reference to the other.
 
-![blocktree-shapes-disagree](gap://media/image/guld/whitepaper/blocktree-shapes-disagree.jpg)
+![blocktree-shapes-disagree](/img/blocktree-shapes-disagree.jpg)
 
 Though Rene does not himself recognize the `cube` as a shape, he would be able to reference it using Baruch's definition, and vice versa for Baruch and the `cylinder`. Either could provably assert that the other believed in such a foreign thing, referencing the other's definition.
 
@@ -84,7 +84,7 @@ Suppose that Rene and Baruch talk it out, and come to consensus on the subject o
 
 Suppose `ClubPhil` is based on a mutually exclusive charter that said "all members must always agree on the subject of shapes". The members of `ClubPhil` agree to each keep a copy of the official perspective for the community, including any unanimously recognized shapes, keys, and lives aka members. This perspective will be named `ClubPhil`, and live in the `ClubPhil` branch of the community clone that each user has locally.
 
-![blocktree-clubphil](gap://media/image/guld/whitepaper/blocktree-clubphil.jpg)
+![blocktree-clubphil](/img/blocktree-clubphil.jpg)
 
 Each member of the community would be able to prove at any time the perspective of any other on any record, including the contractual shapes, and the charter. If any member was to recognize a foreign shape, for instance, the others would be able to prove breach of the `ClubPhil` charter.
 
