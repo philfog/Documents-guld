@@ -9,7 +9,7 @@ Effective Date ____ START_TIME
 
 3. Price
 3.1. Both parties agree to a price of ____ PRICE_USD for each ______ PARTY1_TOKEN token, valid until _____ EXPIRE_TIME.
-3.2. Non-US Dollar payments for ______ PARTY1_TOKEN shall be credited at the exchange rate provided by coinmarketcap at the start of the 10 minute window when the transaction is first noticed by ______ PARTY1_TOKEN, or when the first confirmation is received, whichever is first.
+3.2. Non-US Dollar payments for ______ PARTY1_TOKEN shall be credited at the exchange rate provided by coinmarketcap at the start of the 15 minute window when the transaction is first noticed by ______ PARTY1_TOKEN, or when the first confirmation is received, whichever is first.
 
 4. Payment
 4.1. ______ PARTY2_NAME agrees to pay _________ PRICE_TOTAL in ______ CURRENCY_LIST for ____QUANTITY_TOTAL of ______ PARTY1_TOKEN Tokens.

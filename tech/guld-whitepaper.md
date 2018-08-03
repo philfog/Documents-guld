@@ -1,6 +1,6 @@
 # Guld: Universal Protocol for Relative Consensus
 
-Author: [Ira Miller](gap://life/isyd) &lt;[public@iramiller.com](mailto:public@iramiller.com)&gt; [iramiller.com](https://iramiller.com)
+Author: Ira Miller aka isysd &lt;[public@iramiller.com](mailto:public@iramiller.com)&gt; [iramiller.com](https://iramiller.com)
 
 ##### Abstract
 
