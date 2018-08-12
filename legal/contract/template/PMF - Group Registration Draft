@@ -45,11 +45,11 @@ The number of members in the group will be defined by the count of members in TA
 
 ### 5.1 New Members 
 
-New members may be added by a _____ NEW_MEMBER_PERCENTAGE vote of the members based on the votes in COLUMN4.TABLE1. 
+New members may be added by a _____ NEW_MEMBER_PERCENTAGE vote of the members based on the vote weighting in COLUMN5.TABLE1. 
 
 ### 5.2 Removal of Members 
 
-Members may be removed by a _____ REMOVE_MEMBER_PERCENTAGE vote of the members based on the votes in COLUMN4.TABLE1. 
+Members may be removed by a _____ REMOVE_MEMBER_PERCENTAGE vote of the members based on the vote weight in COLUMN6.TABLE1. 
 
 ## 6. Amendments
 
